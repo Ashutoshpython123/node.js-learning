@@ -1,0 +1,14 @@
+{
+  "name": "6-node",
+  "version": "1.0.0",
+  "description": "second",
+  "main": "Pipes_Pipe_Chaining.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ashutosh",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.20"
+  }
+}
